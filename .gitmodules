@@ -1,0 +1,6 @@
+[submodule "submodules/diff-gaussian-rasterization-lang"]
+	path = submodules/diff-gaussian-rasterization-lang
+	url = https://github.com/zqh0253/diff-gaussian-rasterization-lang.git
+[submodule "submodules/simple-knn"]
+	path = submodules/simple-knn
+	url = https://github.com/DSaurus/simple-knn.git
